@@ -1,6 +1,6 @@
 import React from 'react';
 import { QuoteCalculator } from './QuoteCalculator';
-import { ServiceCategory } from '../types';
+import { ServiceCategory } from './types';
 
 interface InstantQuoteModalProps {
   isOpen: boolean;

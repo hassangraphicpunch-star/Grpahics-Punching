@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { THREAD_COLORS } from '../data/mockData';
-import { ThreadColor } from '../types';
+import { THREAD_COLORS } from './mockData';
+import { ThreadColor } from './types';
 import { Search, Palette, Check, Copy, Sparkles, Filter } from 'lucide-react';
 
 export const ThreadChartTool: React.FC = () => {

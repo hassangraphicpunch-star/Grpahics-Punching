@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { PRICING_PLANS } from '../data/mockData';
+import { PRICING_PLANS } from './mockData';
 import { CheckCircle2, Zap, Clock, ShieldCheck, Sparkles } from 'lucide-react';
 
 interface PricingSectionProps {

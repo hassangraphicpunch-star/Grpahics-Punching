@@ -6,11 +6,11 @@ import {
   TrackedOrder,
   Testimonial,
   FAQItem,
-} from '../types';
+} from './types';
 
-import embroideryHeroImg from '../assets/images/embroidery_hero_1785789323266.jpg';
-import vectorArtImg from '../assets/images/vector_art_showcase_1785789338757.jpg';
-import patchesShowcaseImg from '../assets/images/patches_showcase_1785789353075.jpg';
+import embroideryHeroImg from './embroidery_hero_1785789323266.jpg';
+import vectorArtImg from './vector_art_showcase_1785789338757.jpg';
+import patchesShowcaseImg from './patches_showcase_1785789353075.jpg';
 
 export const HERO_IMAGE = embroideryHeroImg;
 export const VECTOR_SHOWCASE_IMAGE = vectorArtImg;

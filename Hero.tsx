@@ -13,7 +13,7 @@ import {
   Layers,
 } from 'lucide-react';
 import { Needle } from './NeedleIcon';
-import { HERO_IMAGE } from '../data/mockData';
+import { HERO_IMAGE } from './mockData';
 
 interface HeroProps {
   onOpenQuoteModal: (service?: string) => void;

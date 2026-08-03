@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ServiceCategory } from '../types';
+import { ServiceCategory } from './types';
 import {
   PenTool,
   ShieldCheck,

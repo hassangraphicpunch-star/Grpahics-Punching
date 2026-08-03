@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { PORTFOLIO_DATA } from '../data/mockData';
-import { PortfolioItem } from '../types';
+import { PORTFOLIO_DATA } from './mockData';
+import { PortfolioItem } from './types';
 import { BeforeAfterSlider } from './BeforeAfterSlider';
 import {
   PenTool,
