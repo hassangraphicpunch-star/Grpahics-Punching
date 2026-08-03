@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FAQ_DATA } from '../data/mockData';
+import { FAQ_DATA } from './mockData';
 import { ChevronDown, HelpCircle, Sparkles } from 'lucide-react';
 
 export const FAQSection: React.FC = () => {

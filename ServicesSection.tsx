@@ -11,8 +11,8 @@ import {
   FileCheck,
 } from 'lucide-react';
 import { Needle } from './NeedleIcon';
-import { SERVICES_DATA } from '../data/mockData';
-import { ServiceItem } from '../types';
+import { SERVICES_DATA } from './mockData';
+import { ServiceItem } from './types';
 
 interface ServicesSectionProps {
   onOpenQuoteModal: (service?: string) => void;

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { SAMPLE_TRACKED_ORDERS } from '../data/mockData';
-import { TrackedOrder } from '../types';
+import { SAMPLE_TRACKED_ORDERS } from './mockData';
+import { TrackedOrder } from './types';
 import {
   Search,
   CheckCircle2,

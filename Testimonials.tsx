@@ -1,5 +1,5 @@
 import React from 'react';
-import { TESTIMONIALS_DATA } from '../data/mockData';
+import { TESTIMONIALS_DATA } from './mockData';
 import { Star, Quote, CheckCircle2 } from 'lucide-react';
 
 export const Testimonials: React.FC = () => {
