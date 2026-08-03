@@ -1,0 +1,6 @@
+{
+  "name": "Graphics Punching",
+  "description": "Professional Custom Embroidery Digitizing and Vector Artwork Services with instant quote calculator, order submission, portfolio showcase, and stitch simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
